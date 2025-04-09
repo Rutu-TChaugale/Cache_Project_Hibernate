@@ -1,5 +1,3 @@
-Absolutely! Here's a more **attractive, beginner-friendly, and clearly understandable** `README.md` for your Hibernate Cache project, with formatting, emojis, and simplified explanations to make it look great on GitHub or any portfolio:
-
 ---
 
 ```markdown
@@ -114,19 +112,6 @@ Kharigalii
 - Use `READ_ONLY` cache strategy only for data that doesn’t change.
 - Second-level cache is **sessionFactory-based**, so it's reusable across sessions.
 - Don’t forget to clear session (`session.clear()`) when testing second-level cache!
-
----
-
-## 👨‍💻 Author
-
-**Prithviraj**  
-📧 lallya@gmail.com  
-
----
-
-## 📄 License
-
-This project is open-source and free to use under the **MIT License**.
 
 ---
 
